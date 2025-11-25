@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://grupoconsulteg.com/wp-content/uploads/2023/01/logo-consulteg.png" alt="Logo Grupo Consulteg" width="250" />
+  <img src="https://raw.githubusercontent.com/consultegcorp/consultegcorp/refs/heads/main/logo.jpeg" alt="Logo Grupo Consulteg" width="250" />
 
   # Grupo Consulteg
   **Siempre a la vanguardia**
